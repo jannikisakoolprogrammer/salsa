@@ -1,0 +1,6 @@
+SOURCE_LANGUAGE_NOT_FILLED = "A forrás nyelvet nem kitöltött."
+TARGET_LANGUAGE_NOT_FILLED = "A cél nyelvet nem kitöltött."
+RECORD_ALREADY_EXISTS = "Adatot már létezik."
+FAILED_TO_INSERT_RECORD = "Hiba:  Adatokat illeszt."
+SOURCE_LANGUAGE = "Forrás nyelv"
+TARGET_LANGUAGE = "Cél nyelv"
